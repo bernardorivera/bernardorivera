@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Bernardo Rivera Cadillo
+# ¡Hola! 👋 Soy Bernardo Rivera
 
 ## 🛠️ Sobre mí
 Soy un **Ingeniero de Sistemas e Informática** bachillerado en la **Universidad Tecnológica del Perú** y actualmente trabajo como **Desarrollador Oracle Junior**. Mi enfoque está en el desarrollo de aplicaciones empresariales, la optimización de procesos y la automatización de infraestructura.
@@ -54,7 +54,7 @@ Soy un **Ingeniero de Sistemas e Informática** bachillerado en la **Universidad
 
 ## 📫 Contacto
 - **Correo**: briveracadillo@gmail.com  
-- **LinkedIn**: [Bernardo Rivera Cadillo](https://www.linkedin.com/in/bernardo-rivera/)  
+- **LinkedIn**: [Bernardo Rivera](https://www.linkedin.com/in/bernardo-rivera/)  
 
 ---
 
