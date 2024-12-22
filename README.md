@@ -13,7 +13,7 @@ Soy Ingeniero de Sistemas, bachillerado en la Universidad Tecnológica del Perú
 - Administración de herramientas de CI/CD y plataformas como Microsoft Azure.
 - Configuración de Active Directory e IIS en entornos Windows Server.
 
-### Experiencia Adicional en Atención al Cliente
+### Experiencia Adicional
 - Roles de liderazgo y atención al cliente en Headwaters Grille, Big Sky Resort, EE.UU. (2017-2023).
 
 ---
